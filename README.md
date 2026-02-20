@@ -54,8 +54,8 @@ How to Run:
 3. Navigate between pages using buttons and links
 
 Author:
-Name: Hanamanthschincholli
-Email: hanamanthschincholli@gmail.com
+Name: sangeeta badiyappa rathod
+Email: sangeetrathod12@gmail.com
 
 Assignment Status:
 - Login Page Created
